@@ -7,8 +7,6 @@ In my free time, I enjoy continuing to learn about data science and artificial i
 
 If you want to contact me, do not hesitate to send me a message. I'm excited to connect with other technology enthusiasts!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresrce)](https://github.com/anuraghazra/github-readme-stats)
-
 📫 How to reach me
 <p align="left">
 <a href="https://www.linkedin.com/in/andres-crooker-estivales/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Andrés Crooker Estivales" height="30" width="40" />linkedin</a>
