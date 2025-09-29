@@ -1,5 +1,5 @@
 ### Hi there im Andres 👋
-I am an enthusiastic about technology and data currently pursuing a double degree in Industrial Civil Engineering and an articulated master's degree in the same discipline. I am passionate about learning new things and solving complex problems.
+I am enthusiastic about technology and data, with a degree in Industrial Civil Engineering. I have worked as a Digital Specialist at Sodimac and Digital Marketing Analyst at JetSMART Airlines. I am passionate about learning new things and solving complex problems.
 
 As an industrial engineer, I enjoy optimizing processes and increasing efficiency. I have experience working on projects, data analysis, and systems modeling. My skills allow me to automate tasks and develop innovative solutions.
 
